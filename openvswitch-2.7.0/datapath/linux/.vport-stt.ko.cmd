@@ -1,0 +1,1 @@
+cmd_/home/karthik/Downloads/openvswitch-2.7.0/datapath/linux/vport-stt.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/karthik/Downloads/openvswitch-2.7.0/datapath/linux/vport-stt.ko /home/karthik/Downloads/openvswitch-2.7.0/datapath/linux/vport-stt.o /home/karthik/Downloads/openvswitch-2.7.0/datapath/linux/vport-stt.mod.o
